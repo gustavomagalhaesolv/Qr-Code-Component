@@ -21,9 +21,8 @@ This solution was a little bit harder than I thought. It's my first project, so 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/learning-paths/getting-started-on-frontend-mentor-XJhRWRREZd/article/65e6f48617e502f0b6ca3cfd/read)
-- Live Site URL: [Add live site URL here](http://127.0.0.1:3000/qr-code-component-main/qr-code-component-main/index.html?vscode-livepreview=true
-)
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/learning-paths/getting-started-on-frontend-mentor-XJhRWRREZd/article/65e6f48617e502f0b6ca3cfd/read)
+- Live Site URL: [Live site URL here](https://gustavomagalhaesolv.github.io/Qr-Code-Component/)
 
 ## My process
 At the start, I thought it would be simpler, but I had some difficultly understanding the layout and how to divide it into parts to write the code. Over time, I started to get the hang of it, which makes me think i'll have less difficulty with future solutions.
