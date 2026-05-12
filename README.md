@@ -1,6 +1,6 @@
-## Frontend Mentor - QR code component solution
+## 🎯 Frontend Mentor - QR code component solution
 
-## Table of contents
+## 📚Table of contents
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
@@ -17,7 +17,7 @@
 ## Overview
 This solution was a little bit harder than I thought. It's my first project, so I came across with some sintaxes and tools which i wasn't used to. But in the end, I was very satisfied with the result.
 ### Screenshot
- ![Result](./design/Projeto%2001-Qr-Component.png)
+ ![Result](./design/Captura%20de%20tela%202026-05-11%20213618.png)
 
 ### Links
 
